@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ktsite/static/css/main.b130867c.chunk.css",
+    "main.js": "/ktsite/static/js/main.70d10d70.chunk.js",
+    "main.js.map": "/ktsite/static/js/main.70d10d70.chunk.js.map",
+    "runtime-main.js": "/ktsite/static/js/runtime-main.d57f1a77.js",
+    "runtime-main.js.map": "/ktsite/static/js/runtime-main.d57f1a77.js.map",
+    "static/js/2.6872cbe5.chunk.js": "/ktsite/static/js/2.6872cbe5.chunk.js",
+    "static/js/2.6872cbe5.chunk.js.map": "/ktsite/static/js/2.6872cbe5.chunk.js.map",
+    "static/js/3.2644bd64.chunk.js": "/ktsite/static/js/3.2644bd64.chunk.js",
+    "static/js/3.2644bd64.chunk.js.map": "/ktsite/static/js/3.2644bd64.chunk.js.map",
+    "index.html": "/ktsite/index.html",
+    "static/css/main.b130867c.chunk.css.map": "/ktsite/static/css/main.b130867c.chunk.css.map",
+    "static/js/2.6872cbe5.chunk.js.LICENSE.txt": "/ktsite/static/js/2.6872cbe5.chunk.js.LICENSE.txt",
+    "static/media/apple.270a0074.svg": "/ktsite/static/media/apple.270a0074.svg",
+    "static/media/background.90cc7faf.gif": "/ktsite/static/media/background.90cc7faf.gif",
+    "static/media/instagram.6ed2cb52.svg": "/ktsite/static/media/instagram.6ed2cb52.svg",
+    "static/media/spotify.02b9f515.svg": "/ktsite/static/media/spotify.02b9f515.svg",
+    "static/media/store site.2f5f72b0.png": "/ktsite/static/media/store site.2f5f72b0.png",
+    "static/media/thumbnail.8e2e49ca.jpg": "/ktsite/static/media/thumbnail.8e2e49ca.jpg",
+    "static/media/twitter.5ae9f4cf.svg": "/ktsite/static/media/twitter.5ae9f4cf.svg",
+    "static/media/youtube.cb1a5678.svg": "/ktsite/static/media/youtube.cb1a5678.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d57f1a77.js",
+    "static/js/2.6872cbe5.chunk.js",
+    "static/css/main.b130867c.chunk.css",
+    "static/js/main.70d10d70.chunk.js"
+  ]
+}
